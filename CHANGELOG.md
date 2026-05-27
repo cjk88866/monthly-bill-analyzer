@@ -8,3 +8,4 @@
 - Add screenshot and scanned-PDF visual recognition path when AI is enabled.
 - Add multi-currency CNY conversion with original-currency summaries.
 - Add Docker local deployment with Nginx frontend proxy.
+- Add Simplified Chinese, Traditional Chinese, English, and Japanese README/UI language support, plus GitHub sponsor QR assets.

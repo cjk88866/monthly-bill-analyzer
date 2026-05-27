@@ -1,8 +1,20 @@
 # 月账单分析 Agent
 
+[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md)
+
 一个可本地部署的个人月账单分析 Agent。把微信、支付宝、银行、U 卡、港卡、PDF 或截图账单拖进网页，它会解析交易、去重、按人民币汇总多币种流水，并生成消费报告和下个月规划建议。
 
 默认完全本地运行；只有你在网页里主动启用大模型智能分析时，程序才会把账单文本、表格分片、截图内容和汇总结果发送到你配置的 OpenAI-compatible API。
+
+## 赞助支持
+
+如果这个本地账单 Agent 对你有帮助，可以扫码打赏支持。谢谢支持，项目会继续打磨。
+
+<p>
+  <a href="frontend/public/sponsor/alipay.jpg"><img src="frontend/public/sponsor/alipay.jpg" alt="支付宝收款码" width="180" /></a>
+  <a href="frontend/public/sponsor/wechat-pay.jpg"><img src="frontend/public/sponsor/wechat-pay.jpg" alt="微信支付收款码" width="180" /></a>
+  <a href="frontend/public/sponsor/usdt-polygon.jpg"><img src="frontend/public/sponsor/usdt-polygon.jpg" alt="USDT Polygon 收款码" width="180" /></a>
+</p>
 
 ## 功能
 
