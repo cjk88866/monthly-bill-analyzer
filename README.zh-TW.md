@@ -11,9 +11,9 @@
 如果這個本機帳單 Agent 對你有幫助，可以掃碼打賞支持。謝謝支持，專案會繼續打磨。
 
 <p>
-  <a href="frontend/public/sponsor/alipay.jpg"><img src="frontend/public/sponsor/alipay.jpg" alt="支付寶收款碼" width="180" /></a>
-  <a href="frontend/public/sponsor/wechat-pay.jpg"><img src="frontend/public/sponsor/wechat-pay.jpg" alt="微信支付收款碼" width="180" /></a>
-  <a href="frontend/public/sponsor/usdt-polygon.jpg"><img src="frontend/public/sponsor/usdt-polygon.jpg" alt="USDT Polygon 收款碼" width="180" /></a>
+  <a href="sponsor-alipay.jpg"><img src="sponsor-alipay.jpg" alt="支付寶收款碼" width="180" /></a>
+  <a href="sponsor-wechat-pay.jpg"><img src="sponsor-wechat-pay.jpg" alt="微信支付收款碼" width="180" /></a>
+  <a href="sponsor-usdt-polygon.jpg"><img src="sponsor-usdt-polygon.jpg" alt="USDT Polygon 收款碼" width="180" /></a>
 </p>
 
 ## 功能

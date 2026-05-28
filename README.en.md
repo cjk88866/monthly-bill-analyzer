@@ -11,9 +11,9 @@ By default, everything runs locally. Bill content is sent to an external service
 If this local bill agent helps you, you can support the project with a scan. Thanks for supporting continued polish and development.
 
 <p>
-  <a href="frontend/public/sponsor/alipay.jpg"><img src="frontend/public/sponsor/alipay.jpg" alt="Alipay payment QR code" width="180" /></a>
-  <a href="frontend/public/sponsor/wechat-pay.jpg"><img src="frontend/public/sponsor/wechat-pay.jpg" alt="WeChat Pay payment QR code" width="180" /></a>
-  <a href="frontend/public/sponsor/usdt-polygon.jpg"><img src="frontend/public/sponsor/usdt-polygon.jpg" alt="USDT Polygon payment QR code" width="180" /></a>
+  <a href="sponsor-alipay.jpg"><img src="sponsor-alipay.jpg" alt="Alipay payment QR code" width="180" /></a>
+  <a href="sponsor-wechat-pay.jpg"><img src="sponsor-wechat-pay.jpg" alt="WeChat Pay payment QR code" width="180" /></a>
+  <a href="sponsor-usdt-polygon.jpg"><img src="sponsor-usdt-polygon.jpg" alt="USDT Polygon payment QR code" width="180" /></a>
 </p>
 
 ## Features

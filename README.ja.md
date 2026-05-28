@@ -11,9 +11,9 @@
 このローカル明細 Agent が役に立ったら、QR コードから支援できます。継続的な改善へのご支援ありがとうございます。
 
 <p>
-  <a href="frontend/public/sponsor/alipay.jpg"><img src="frontend/public/sponsor/alipay.jpg" alt="Alipay 支払い QR コード" width="180" /></a>
-  <a href="frontend/public/sponsor/wechat-pay.jpg"><img src="frontend/public/sponsor/wechat-pay.jpg" alt="WeChat Pay 支払い QR コード" width="180" /></a>
-  <a href="frontend/public/sponsor/usdt-polygon.jpg"><img src="frontend/public/sponsor/usdt-polygon.jpg" alt="USDT Polygon 支払い QR コード" width="180" /></a>
+  <a href="sponsor-alipay.jpg"><img src="sponsor-alipay.jpg" alt="Alipay 支払い QR コード" width="180" /></a>
+  <a href="sponsor-wechat-pay.jpg"><img src="sponsor-wechat-pay.jpg" alt="WeChat Pay 支払い QR コード" width="180" /></a>
+  <a href="sponsor-usdt-polygon.jpg"><img src="sponsor-usdt-polygon.jpg" alt="USDT Polygon 支払い QR コード" width="180" /></a>
 </p>
 
 ## 機能

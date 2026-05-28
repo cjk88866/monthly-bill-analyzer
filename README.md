@@ -11,9 +11,9 @@
 如果这个本地账单 Agent 对你有帮助，可以扫码打赏支持。谢谢支持，项目会继续打磨。
 
 <p>
-  <a href="frontend/public/sponsor/alipay.jpg"><img src="frontend/public/sponsor/alipay.jpg" alt="支付宝收款码" width="180" /></a>
-  <a href="frontend/public/sponsor/wechat-pay.jpg"><img src="frontend/public/sponsor/wechat-pay.jpg" alt="微信支付收款码" width="180" /></a>
-  <a href="frontend/public/sponsor/usdt-polygon.jpg"><img src="frontend/public/sponsor/usdt-polygon.jpg" alt="USDT Polygon 收款码" width="180" /></a>
+  <a href="sponsor-alipay.jpg"><img src="sponsor-alipay.jpg" alt="支付宝收款码" width="180" /></a>
+  <a href="sponsor-wechat-pay.jpg"><img src="sponsor-wechat-pay.jpg" alt="微信支付收款码" width="180" /></a>
+  <a href="sponsor-usdt-polygon.jpg"><img src="sponsor-usdt-polygon.jpg" alt="USDT Polygon 收款码" width="180" /></a>
 </p>
 
 ## 功能
